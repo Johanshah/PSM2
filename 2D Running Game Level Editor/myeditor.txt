@@ -1,0 +1,1 @@
+{"title":"myeditor","enemyMoveSpeed":3,"enemySpawnDelay":1,"playerId":2,"matId":1,"patternId":[true,false,false,true,false,true,false,false]}

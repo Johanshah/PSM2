@@ -1,0 +1,1 @@
+{"title":"jo","enemyMoveSpeed":3,"enemySpawnDelay":2,"playerId":4,"matId":3,"patternId":[false,false,false,true,true,false,false,false]}
